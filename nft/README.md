@@ -9,3 +9,4 @@ This app is designed to provide a seamless and user-friendly experience for NFT 
 3. User Profiles: Create a personalized profile.
 4. Community Features: Users can follow other creators
 
+![Image alt](https://github.com/Ayaboh/NFT_app/blob/main/nft/info_img.png)
