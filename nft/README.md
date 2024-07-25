@@ -1,16 +1,11 @@
-# nft
+# NFT Market App
 
-A new Flutter project.
+This app is designed to provide a seamless and user-friendly experience for NFT enthusiasts and creators alike.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. Browse and Discover NFTs: Explore a wide range of NFTs.
+2. Buy and Sell NFTs.
+3. User Profiles: Create a personalized profile.
+4. Community Features: Users can follow other creators
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
